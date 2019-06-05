@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> About | Food Exploria </title>
+    <title> About | ACUMEALS </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/aboutus.css">
@@ -49,7 +49,7 @@ session_start();
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Food Exploria</a>
+          <a class="navbar-brand" href="index.php">ACUMEALS</a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
@@ -128,7 +128,7 @@ else {
 
     <div class="paragraph1">
       <h1>OUR TEAM</h1>
-      <h3><p>Food Exploria was founded in 2017. We care about quality, craft and disciplined experimentation. We are active contributors to open source software.</p><p> We help innovate, develop and pioneer. </p></h3>
+      <h3><p>ACUMEALS was founded in 2018. We care about quality, craft and disciplined experimentation. We are active contributors to open source software.</p><p> We help innovate, develop and pioneer. </p></h3>
     </div>
 
     <div class="col-xs-12 line"><hr></div>
@@ -152,7 +152,7 @@ else {
           <div class="goldcolor">
             <h2>3. Clients == teammates.</h2>
             </div>
-            <h3>You hired Food Exploria, and now we're one team with a shared mission. Let's figure it our together.</h3>
+            <h3>You hired ACUMEALS, and now we're one team with a shared mission. Let's figure it our together.</h3>
           </p>
           <p><br>
           <div class="goldcolor">
@@ -175,10 +175,10 @@ else {
     <h1><strong> ABOUT US </strong></h1>
     <h3>
       <p>
-        The purpose of <font color="green"><strong>Food Exploria</strong></font> is to automate the existing manual system by the help of computerized equipments and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy accessing and manipulation of the same. The required software and hardware are easily available and easy to work with.
+        The purpose of <font color="green"><strong>ACUMEALS</strong></font> is to automate the existing manual system by the help of computerized equipments and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy accessing and manipulation of the same. The required software and hardware are easily available and easy to work with.
       </p>
       <p>
-        <font color="green"><strong>Food Exploria</strong></font>, as described above, can lead to <font color="green"><strong>error free, secure, reliable and fast management system.</strong></font> It can assist the user to concentrate on their other activities rather to concentrate on the record keeping. Thus it will help organization in better utilization of resources. The organization can maintain computerized records without redundant entries. That means that one need not be distracted by information that is not relevant, while being able to reach the information. 
+        <font color="green"><strong>ACUMEALS</strong></font>, as described above, can lead to <font color="green"><strong>error free, secure, reliable and fast management system.</strong></font> It can assist the user to concentrate on their other activities rather to concentrate on the record keeping. Thus it will help organization in better utilization of resources. The organization can maintain computerized records without redundant entries. That means that one need not be distracted by information that is not relevant, while being able to reach the information. 
       </p>
       <p>
         <font color="green"><strong>Basically the project describes how to manage for good performance and better services for the clients.</strong></font> 
@@ -213,7 +213,7 @@ else {
 
   <footer class="container-fluid bg-4 text-center">
   <br>
-  <p> Food Exploria 2019 | &copy All Rights Reserved </p>
+  <p> ACUMEALS 2019 | &copy All Rights Reserved </p>
   <br>
   </footer>
 </html>

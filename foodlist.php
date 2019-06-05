@@ -11,7 +11,7 @@ header("location: customerlogin.php"); //Redirecting to myrestaurant Page
 <html>
 
   <head>
-    <title> Explore | Food Exploria </title>
+    <title> Explore | ACUMEALS </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/foodlist.css">
@@ -55,7 +55,7 @@ header("location: customerlogin.php"); //Redirecting to myrestaurant Page
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Food Exploria</a>
+          <a class="navbar-brand" href="index.php">ACUMEALS</a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
@@ -173,7 +173,7 @@ else {
 
 <div class="jumbotron">
   <div class="container text-center">
-    <h1>Food Exploria</h1>      
+    <h1>ACUMEALS</h1>      
     <p>Let food be thy medicine and medicine be thy food</p>
   </div>
 </div>
@@ -253,7 +253,7 @@ else
 
   <footer class="container-fluid bg-4 text-center">
   <br>
-  <p> Food Exploria 2019 | &copy All Rights Reserved </p>
+  <p> ACUMEALS 2019 | &copy All Rights Reserved </p>
   <br>
   </footer>
 

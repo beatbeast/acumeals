@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> Contact | Food Exploria </title>
+    <title> Contact | ACUMEALS </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/contactus.css">
@@ -49,7 +49,7 @@ session_start();
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Food Exploria</a>
+          <a class="navbar-brand" href="index.php">ACUMEALS</a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
@@ -190,7 +190,7 @@ else {
 
   <footer class="container-fluid bg-4 text-center">
   <br>
-  <p> Food Exploria 2019 | &copy All Rights Reserved </p>
+  <p> ACUMEALS 2019 | &copy All Rights Reserved </p>
   <br>
   </footer>
 </html>

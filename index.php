@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> Home | Food Exploria </title>
+    <title> Home | ACUMEALS </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
@@ -48,7 +48,7 @@ session_start();
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Food Exploria</a>
+          <a class="navbar-brand" href="index.php">ACUMEALS</a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
@@ -125,7 +125,7 @@ else {
 
     <div class="wide">
       	<div class="col-xs-5 line"><hr></div>
-        <div class="col-xs-2 logo"><img src="images/logo.jpg"></div>
+        <div class="col-xs-2 logo"><img src="images/beatbeast.jpg"></div>
         <div class="col-xs-5 line"><hr></div>
         <div class="tagline">Good Food is Good Mood</div>
     </div>
@@ -166,7 +166,7 @@ else {
      <div class="col-xs-12 line"><hr></div>
 
      <div class="paragraph1">
-     <h1>Welcome to FOOD EXPLORIA</h1>
+     <h1>Welcome to ACUMEALS</h1>
     <p><br> 
       <h4>Remember last time when you had close guest from <font color="green"><strong>Mangalore</strong>, <strong>Kerala</strong>, <strong>Chennai</strong></font> announcing their surprise visit to your sweet home. Which is the follwed by sincere requests like let's have the <font color="green"><strong>famous biriyani of Chennai</strong>.</font> While someone is asking to eat Kallumakkaya Fry from <font color="green"><strong>Calicut in Kerala</strong>.</font> God they blurted as if the prime purpose was to taste the food than to see the well being of you. Well we know its not like they love to get pampered by you.
     </p>
@@ -178,15 +178,15 @@ else {
     <div class="col-xs-12 line"><hr></div>
 
     <div class="paragraph1">
-     <h1>FOOD EXPLORIA - Good Food is Good Mood</h1>
+     <h1>ACUMEALS - Good Food is Good Mood</h1>
     <p><br> 
       <h4>
-      Food Exploria will help in making your quest for enjoying good lunch, dinner which is are home delivered all the more interesting and excited when you are scartching your head to entertain your guest with their demands met.
+      ACUMEALS will help in making your quest for enjoying good lunch, dinner which is are home delivered all the more interesting and excited when you are scartching your head to entertain your guest with their demands met.
       </h4>
     </p>
     <p>
       <h4>
-        There are two ways you can <font color="green"><strong>order food online</strong></font> with us. <font color="green"><strong>Download Food Exploria app on your smartphone</strong></font> or open our user friendly website and get it home delivered. Or if you are busy in your schedule and just want to eat at leisure at home you can order takeaway from host of restaurants and pickup the food parcel kept ready for you while you are on the way to home.
+        There are two ways you can <font color="green"><strong>order food online</strong></font> with us. <font color="green"><strong>Download ACUMEALS app on your smartphone</strong></font> or open our user friendly website and get it home delivered. Or if you are busy in your schedule and just want to eat at leisure at home you can order takeaway from host of restaurants and pickup the food parcel kept ready for you while you are on the way to home.
       </h4>
     </p>
     </div>
@@ -241,7 +241,7 @@ else {
           <br>
           <p>
             <h4>
-              Yes, Food Exploria is another way to live life with our loved ones...
+              Yes, ACUMEALS is another way to live life with our loved ones...
             </h4>
           </p>
       </div>
@@ -253,7 +253,7 @@ else {
 
   <footer class="container-fluid bg-4 text-center">
   <br>
-  <p> Food Exploria 2019 | &copy All Rights Reserved </p>
+  <p> ACUMEALS 2019 | &copy All Rights Reserved </p>
   <br>
   </footer>
 </html>
