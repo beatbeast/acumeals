@@ -17,7 +17,7 @@ header("location: customerlogin.php"); //Redirecting to myrestaurant Page
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
-
+  <link rel="icon" href="images/beatbeast.jpg">
   <body>
 
   <!--Back to top button..................................................................................-->
@@ -176,7 +176,7 @@ $gtotal = 0;
           </div>
         </div>
         <br>
-<h1 class="text-center">Grand Total: &#8377;<?php echo "$gtotal"; ?>/-</h1>
+<h1 class="text-center">Grand Total: &#x20A6;<?php echo "$gtotal"; ?>/-</h1>
 <h5 class="text-center">including all service charges. (no delivery charges applied)</h5>
 <br>
 <h1 class="text-center">

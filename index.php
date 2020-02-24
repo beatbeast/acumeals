@@ -12,6 +12,8 @@ session_start();
 
   <link rel="stylesheet" type = "text/css" href ="css/index.css">
 
+  <link rel="icon" href="images/beatbeast.jpg">
+
   <body>
 
   <!--Back to top button..................................................................................-->
@@ -168,7 +170,7 @@ else {
      <div class="paragraph1">
      <h1>Welcome to ACUMEALS</h1>
     <p><br> 
-      <h4>Remember last time when you had close guest from <font color="green"><strong>Mangalore</strong>, <strong>Kerala</strong>, <strong>Chennai</strong></font> announcing their surprise visit to your sweet home. Which is the follwed by sincere requests like let's have the <font color="green"><strong>famous biriyani of Chennai</strong>.</font> While someone is asking to eat Kallumakkaya Fry from <font color="green"><strong>Calicut in Kerala</strong>.</font> God they blurted as if the prime purpose was to taste the food than to see the well being of you. Well we know its not like they love to get pampered by you.
+      <h4>Remember last time when you had close guest from <font color="green"><strong>JAH</strong>, <strong>Lagos Hostel</strong>, <!--<strong>Chennai</strong>--></font> announcing their surprise visit to your sweet room. Which is the follwed by sincere requests like let's have the <font color="green"><strong>famous Iya Debo beans</strong>.</font> While someone is asking to eat Pounded Yam from  <font color="green"><strong>Ajiwunmi Buka</strong>.</font> God they blurted as if the prime purpose was to taste the food than to see the well being of you. Well we know its not like they love to get pampered by you.
     </p>
     <p>
       Well whatever the shower love on us, we believe Athiti devo bhave... Right as always</h4>
@@ -181,7 +183,7 @@ else {
      <h1>ACUMEALS - Good Food is Good Mood</h1>
     <p><br> 
       <h4>
-      ACUMEALS will help in making your quest for enjoying good lunch, dinner which is are home delivered all the more interesting and excited when you are scartching your head to entertain your guest with their demands met.
+      ACUMEALS will help in making your quest for enjoying good lunch, dinner which are delivered to you wherever you are all the more interesting and excited when you are scartching your head to entertain your guest with their demands met.
       </h4>
     </p>
     <p>

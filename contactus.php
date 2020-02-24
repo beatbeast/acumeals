@@ -12,7 +12,7 @@ session_start();
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
-
+  <link rel="icon" href="images/beatbeast.jpg">
   <body>
 
   <!--Back to top button..................................................................................-->
@@ -125,7 +125,7 @@ else {
     <br>
 
     <div class="heading">
-     <strong>Want to contact <span class="edit"> FoodExploria </span>?</strong>
+     <strong>Want to contact <span class="edit"> ACUMEALS </span>?</strong>
      <br>
     Here are a few ways to get in touch with us.
     </div>
@@ -170,19 +170,19 @@ else {
 
 <div class="paragraph1">
 
-    <p><h3>We are here to answer any queries you may have about our <font color="green"><strong>FoodExploria</strong></font> experiences. Reach out to us and we will respond as soon as we can.</h3></p>
-        <p><h3>Even if there is something you always wanted to experience and couldn't find it on <font color="green"><strong>FoodExploria</strong></font>, please do let us know and we here at <font color="green"><strong>FoodExploria promise to do our best to find it for you and suggest you the best of best.</strong></font> </h3></p>
-        <p><b><h3>Contact Details of Team FoodExploria are given below.</h3></b></p>
+    <p><h3>We are here to answer any queries you may have about our <font color="green"><strong>ACUMEALS</strong></font> experiences. Reach out to us and we will respond as soon as we can.</h3></p>
+        <p><h3>Even if there is something you always wanted to experience and couldn't find it on <font color="green"><strong>ACUMEALS</strong></font>, please do let us know and we here at <font color="green"><strong>ACUMEALS promise to do our best to find it for you and suggest you the best of best.</strong></font> </h3></p>
+        <p><b><h3>Contact Details of Team ACUMEALS are given below.</h3></b></p>
         <p class="edit2">
         
-        <strong>Email      :</strong>  <a href="foodexploriahelp@gmail.com">foodexploriahelp@gmail.com</a>
+        <strong>Email      :</strong>  <a href="acumealshelp@gmail.com">acumealshelp@gmail.com</a>
         |
-        <strong>Telephone  :</strong>  8123044768
+        <strong>Telephone  :</strong>  +234 818 346 7004
         
         </p>
         <p class="edit2"><strong>Get in touch with us on Social Media.</strong></p>
-        <pre><a href="https://www.facebook.com/FoodExploria/" target="_blank"><img src="images/facebook.jpg" width="50px" height="50px"></a>  <a href="https://twitter.com/login" target="_blank"><img src="images/googleplus.png" width="50px" height="50px"></a>  <a href="https://www.instagram.com/accounts/login/" target="_blank"><img src="images/twitter.jpg" width="50px" height="50px"></a>  <a href="https://www.facebook.com/FoodExploria/" target="_blank"><img src="images/insta.jpg" width="50px" height="50px"></a></pre>
-        <p class="edit2">We even provide you a platform to share your food experiences and reviews by mailing it to us at <a href="foodexploria@gmail.com">foodexploria@gmail.com</a> </p>
+        <pre><a href="https://www.facebook.com/#" target="_blank"><img src="images/facebook.jpg" width="50px" height="50px"></a>  <a href="https://twitter.com/#" target="_blank"><img src="images/googleplus.png" width="50px" height="50px"></a>  <a href="https://www.instagram.com/accounts/#" target="_blank"><img src="images/twitter.jpg" width="50px" height="50px"></a>  <a href="https://www.facebook.com/#" target="_blank"><img src="images/insta.jpg" width="50px" height="50px"></a></pre>
+        <p class="edit2">We even provide you a platform to share your food experiences and reviews by mailing it to us at <a href="acumeals@gmail.com">acumeals@gmail.com</a> </p>
       
 
 </div>

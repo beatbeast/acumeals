@@ -12,7 +12,7 @@ header('Location: managerlogin.php'); // Redirecting To Home Page
   <head>
     <title> Manager Login | ACUMEALS </title>
   </head>
-
+  <link rel="icon" href="images/beatbeast.jpg">
   <link rel="stylesheet" type = "text/css" href ="css/edit_food_items.css">
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
   <script type="text/javascript" src="js/jquery.min.js"></script>
